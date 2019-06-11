@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rotato",
+  "name": "RotatoCraft",
+  "description": "Spin to win",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Quellek"],
+  "credits": "Quellek, shoutout to Reika for making RotaryCraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

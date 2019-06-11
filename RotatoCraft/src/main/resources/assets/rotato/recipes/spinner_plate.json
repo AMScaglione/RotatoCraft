@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "rotato:spinner_plate"
+  },
+  "pattern": [
+    "ccc",
+    "ibi",
+    "cpc"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "c": {
+      "item": "minecraft:cobblestone",
+      "data": 0
+    },
+    "p": {
+      "item": "minecraft:compass"
+    }
+  }
+}

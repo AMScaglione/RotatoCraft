@@ -1,0 +1,30 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cube",
+        "textures": {
+        "north": "rotato:blocks/spinner_plate_front",
+        "south": "rotato:blocks/spinner_plate_axis",
+        "west": "rotato:blocks/spinner_plate_base",
+        "east": "rotato:blocks/spinner_plate_base",
+        "up": "rotato:blocks/spinner_plate_base",
+        "down": "rotato:blocks/spinner_plate_base"
+        }
+    } ,
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}],
+        "facing": {
+            "north": {},
+            "south": {"y": 180},
+            "west": {"y": 270},
+            "east": {"y": 90},
+            "up": {"x": -90},
+            "down": {"x": 90}
+        },
+        "state": {
+            "off": {},
+            "working": { "textures": { "north": "rotato:blocks/spinner_plate_front_working" } }
+        }
+    } 
+}

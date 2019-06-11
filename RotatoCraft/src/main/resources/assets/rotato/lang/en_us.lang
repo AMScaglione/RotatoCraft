@@ -1,0 +1,9 @@
+//CREATIVE TAB
+itemGroup.RotatoCraft=RotatoCraft
+
+//BLOCKS
+tile.rotato.spinner_plate.name=Spinner Plate
+
+
+//ITEMS
+item.rotato.rotato.name=Rotato
